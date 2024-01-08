@@ -54,6 +54,36 @@ La teoria cinetica analizza il comportamento microscopico dei gas e si basa sul 
 
 Un contenitore a STP contiene un numero abnorme di molecole e queste molecole continuando a muoversi urtano e si scambiano velocità. La percentuale P di molecole che hanno il modulo della velocità compreso tra $v$ e $v+∆v$ è costante nel tempo. All'intervallo $v;v+∆v$ si associa la percentuale P di molecole che hanno il modulo della velocità compreso tra questo intervallo si ottiene la distribuzione delle velocità delle molecole del gas. 
 
-Le molecole possono essere considerate puntiformi, e urtano contro una parete con le stesse leggi della quantità di moto che valgono per i corpi rigidi. Considerando $N$ particelle in una scatola di lato $L$. La Forza esercitata dalla parete sulla molecola: $$F={∆p\over ∆t}=-{2m\vec v\over {2L\over \vec v}}=-{m\vec v^2\over L}$$ $2L$ è lo spazio percorso da una molecola. La forza esercitata dalla molecola sulla parete sarà: $$F={m\vec v^2\over L}$$La forza totale su tutti e 3 i piani:$$F={\sum m\vec v^2\over 3L}$$$$\vec v^2 = (\vec v^2_x+\vec v^2_y+\vec v^2_z)$$La pressione sara uguale a:$$P={F\over A}={\sum m\vec v^2\over 3L^3} = {\sum m\vec v^2\over 3V}$$Portiamo fuori dalla radice $m$ e $v$$$P={Nm\cdot\sum \vec v^2\over N\cdot 3V}$$$$P={ Nm\cdot v^2\over 3V}$$$$PV={Nm\over 3} v^2$$$$v_{qm}=\sqrt{v^2}=\sqrt{\sum (\vec v^2_x+\vec v^2_y+\vec v^2_z)\over N}$$$$PV={Nm\over 3} v_{qm}^2$$$$PV={2\over 3}N({1\over 2}mv_{qm}^2)$$$$PV={2\over 3}NK$$ $K$ è l'energia cinetica media.$$NkT={2\over 3}NK$$$$K={3\over2}kT$$$${3\over2}kT={1\over 2}mv_{qm}^2$$$$v_{qm}=\sqrt{3kT\over m}$$L'energia cinetica media dipende direttamente solo dalla temperatura. La velocità quadratica media invece dalla temperatura e dalla massa. 
+Le molecole possono essere considerate puntiformi, e urtano contro una parete con le stesse leggi della quantità di moto che valgono per i corpi rigidi. Considerando $N$ particelle in una scatola di lato $L$. La Forza esercitata dalla parete sulla molecola: 
+$$F={∆p\over ∆t}=-{2m\vec v\over {2L\over \vec v}}=-{m\vec v^2\over L}$$ 
+$2L$ è lo spazio percorso da una molecola. 
+
+La forza esercitata dalla molecola sulla parete sarà: 
+
+$$F={m\vec v^2\over L}$$
+
+La forza totale su tutti e 3 i piani:
+$$F={\sum m\vec v^2\over 3L}$$
+$$\vec v^2 = (\vec v^2_x+\vec v^2_y+\vec v^2_z)$$
+
+La pressione sara uguale a:
+$$P={F\over A}={\sum m\vec v^2\over 3L^3} = {\sum m\vec v^2\over 3V}$$
+
+Portiamo fuori dalla radice $m$ e $v$$$P={Nm\cdot\sum \vec v^2\over N\cdot 3V}$$
+$$P={ Nm\cdot v^2\over 3V}$$
+$$PV={Nm\over 3} v^2$$
+$$v_{qm}=\sqrt{v^2}=\sqrt{\sum (\vec v^2_x+\vec v^2_y+\vec v^2_z)\over N}$$
+$$PV={Nm\over 3} v_{qm}^2$$
+$$PV={2\over 3}N({1\over 2}mv_{qm}^2)$$
+$$PV={2\over 3}NK$$ 
+
+$K$ è l'energia cinetica media.
+
+$$NkT={2\over 3}NK$$
+$$K={3\over2}kT$$
+$${3\over2}kT={1\over 2}mv_{qm}^2$$
+$$v_{qm}=\sqrt{3kT\over m}$$
+
+L'energia cinetica media dipende direttamente solo dalla temperatura. La velocità quadratica media invece dalla temperatura e dalla massa. 
 
 ## U di un gas perfetto monoatomico
