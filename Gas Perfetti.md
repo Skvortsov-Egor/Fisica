@@ -41,7 +41,10 @@ P e V sono inversamente proporzionali e la curva è una proporzionalità inversa
 ## Legge dei Gas ideali
 
 Se uniamo la relazione che si ottiene dalla ***seconda legge di Gay-Lussac*** ($P\alpha T$), la ***legge di Boyle*** ($K=PV$) e che la pressione aumenta se si aumenta il numero di moli ($P\alpha n$) si ottiene la seguente relazione: $$P={nT\over V}$$ e quindi $$PV = nT$$ Introduzione la **costante dei gas** $R= 8.31{J\over mol\cdot K}$ si ottiene la **legge dei gas ideali:**$$PV=nRT$$
-Spesso è conveniente esprimere la legge dei gas ideali attraverso il numero di particelle $N$: $$PV=NkT$$dove $k$ è la **costante di Boltzmann** che equivale a $1.38\times10^{-23}$. Questa equazione si ottiene considerando la seguente uguaglianza $N=N_a\cdot n$. Tramite questa legge è possibile dimostrare che il $V$ occupato a STP è di $22.4L$.
+Spesso è conveniente esprimere la legge dei gas ideali attraverso il numero di particelle $N$: 
+$$PV=NkT$$
+
+dove $k$ è la **costante di Boltzmann** che equivale a $1.38\times10^{-23}$. Questa equazione si ottiene considerando la seguente uguaglianza $N=N_a\cdot n$. Tramite questa legge è possibile dimostrare che il $V$ occupato a STP è di $22.4L$.
 
 Spesso $n$ rimane costante quindi fissate 2 variabili di stato, l'altra può essere determinata:
 - **Trasformazione ISOCORA**: $V$ costante $P_A\over T_A$
@@ -64,6 +67,7 @@ $$F={m\vec v^2\over L}$$
 
 La forza totale su tutti e 3 i piani:
 $$F={\sum m\vec v^2\over 3L}$$
+
 $$\vec v^2 = (\vec v^2_x+\vec v^2_y+\vec v^2_z)$$
 
 La pressione sara uguale a:
@@ -72,18 +76,27 @@ $$P={F\over A}={\sum m\vec v^2\over 3L^3} = {\sum m\vec v^2\over 3V}$$
 Portiamo fuori dalla radice $m$ e $v$
 
 $$P={Nm\cdot\sum \vec v^2\over N\cdot 3V}$$
+
 $$P={ Nm\cdot v^2\over 3V}$$
+
 $$PV={Nm\over 3} v^2$$
+
 $$v_{qm}=\sqrt{v^2}=\sqrt{\sum (\vec v^2_x+\vec v^2_y+\vec v^2_z)\over N}$$
+
 $$PV={Nm\over 3} v_{qm}^2$$
+
 $$PV={2\over 3}N({1\over 2}mv_{qm}^2)$$
+
 $$PV={2\over 3}NK$$ 
 
 $K$ è l'energia cinetica media.
 
 $$NkT={2\over 3}NK$$
+
 $$K={3\over2}kT$$
+
 $${3\over2}kT={1\over 2}mv_{qm}^2$$
+
 $$v_{qm}=\sqrt{3kT\over m}$$
 
 L'energia cinetica media dipende direttamente solo dalla temperatura. La velocità quadratica media invece dalla temperatura e dalla massa. 
