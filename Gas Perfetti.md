@@ -69,7 +69,9 @@ $$\vec v^2 = (\vec v^2_x+\vec v^2_y+\vec v^2_z)$$
 La pressione sara uguale a:
 $$P={F\over A}={\sum m\vec v^2\over 3L^3} = {\sum m\vec v^2\over 3V}$$
 
-Portiamo fuori dalla radice $m$ e $v$$$P={Nm\cdot\sum \vec v^2\over N\cdot 3V}$$
+Portiamo fuori dalla radice $m$ e $v$
+
+$$P={Nm\cdot\sum \vec v^2\over N\cdot 3V}$$
 $$P={ Nm\cdot v^2\over 3V}$$
 $$PV={Nm\over 3} v^2$$
 $$v_{qm}=\sqrt{v^2}=\sqrt{\sum (\vec v^2_x+\vec v^2_y+\vec v^2_z)\over N}$$
