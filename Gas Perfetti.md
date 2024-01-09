@@ -30,7 +30,7 @@ Le temperature sono espresse in gradi centigradi. $\alpha$ corrisponde a:
 
 $$\alpha={1\over 273.15}°C^{-1}$$
 
-Sostituendo le due espressioni con i gradi kelvin si ottiene:$$V={V_0\over 273.15}T$$ e $$P={P_0\over 273.15}T$$
+Sostituendo le due espressioni con i gradi kelvin si ottiene: $$V={V_0\over 273.15}T$$ e $$P={P_0\over 273.15}T$$
 ## Legge di Boyle
 
 > Fissata la temperatura ed il numero di moli: $$K=PV$$
