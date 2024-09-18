@@ -47,11 +47,16 @@ $$v={\lambda\over T}$$
 
 La velocità di un'onda però dipende anche dalle caratteristiche del mezzo di propagazione e nel caso di una corda:
 
-$$v={\sqrt{F\over m\over L}}$$
+$$v={\sqrt{F\over m/L}}$$
 
 ## descrizione matematica di un'onda
 Un'onda è descritta attraverso la funzione seno o coseno:
 
 $$y=A\sin(2\pi f + {2\pi x\over \lambda})$$
 
-Il termine tra parentesi è detto fase e produce una traslazione della funzione seno. Se la traslazione ha segno negativo, allora la funzione si spsota verso destra. 
+Il termine tra parentesi è detto fase e produce una traslazione della funzione seno. Se la traslazione ha segno negativo, allora la funzione si spsota verso destra.
+
+### teorema di fourier
+> qualsiais funzione di periodo T può essere scritta come somma di funzioni sinusoidali e che abbiano come periodo un sottomultiplo di T, questo sta alla base del principio di sovrapposizione.
+
+Spesso è più comodo fare una somma di smeplici funzioni sinosuidali, che crearne una complessa.
