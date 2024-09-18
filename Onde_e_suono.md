@@ -43,7 +43,7 @@ La descrizione della funzione di un'onda avviene in due variabili, mentre il gra
 
 la velocità di un'onda è espressa come il rapporto di una nomrla velocità e quindi.
 
-$$v={\lambda \over T}$$
+$$v={\lambda\over T}$$
 
 La velocità di un'onda però dipende anche dalle caratteristiche del mezzo di propagazione e nel caso di una corda:
 
