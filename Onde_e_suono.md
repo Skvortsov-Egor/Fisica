@@ -48,3 +48,10 @@ $$v={\lambda\over T}$$
 La velocità di un'onda però dipende anche dalle caratteristiche del mezzo di propagazione e nel caso di una corda:
 
 $$v={\sqrt{F\over m\over L}}$$
+
+## descrizione matematica di un'onda
+Un'onda è descritta attraverso la funzione seno o coseno:
+
+$$y=A\sin(2\pi f + {2\pi x\over \lambda})$$
+
+Il termine tra parentesi è detto fase e produce una traslazione della funzione seno. Se la traslazione ha segno negativo, allora la funzione si spsota verso destra. 
