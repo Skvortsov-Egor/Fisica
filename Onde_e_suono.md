@@ -76,10 +76,24 @@ L'ampiezza di un'onda sonora rappresenta dove sono presneti i massimi e minimi d
 
 ### Velocità
 La velocità del suono dipende dal mezzo in cui si propaga, più le forze di coesione del mezzo sono forti, maggiore è la velocità. Nell'aria la velocità del suono è pari a $343 m/s$. Per un gas perfetto, la velocità del suono si avvicina alla velocità quadratica media:
+
 $$v=\sqrt{\gamma k{T\over m}}$$
 
 Il fattore gamma compare perché le compressioni e le refazioni avvengono così velocemente da considerarle adiabatche.
 
 ## intensità del suono
-L'energia trasportata dalle onde può essere usata per compiere lavoro. 
+L'energia trasportata dalle onde può essere usata per compiere lavoro.
+
+$$I{P\over A}$$
+
+Se il suono si trasmette uguale in tutte le direzioni, allora l'intensità sonor diventa:
+
+$$I={P\over 4\pi r^2}$$
+
+ovvero la superficie di una sfera.
+
+### Livello di intnsità sonora
+L'intensità minima udubile dall'essere umano equivale a $I_O=10^{-12}$, mentre il massimo equivale a 10 e già a questo soglia si possono verificare danni permanenti all'udito. Il livello di intensità sonora è una scala logaritmica e uamenta di 10 in 10:
+
+$$\beta=10\log ({I\over I_0})$$
 
