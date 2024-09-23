@@ -60,3 +60,26 @@ Il termine tra parentesi è detto fase e produce una traslazione della funzione 
 > qualsiais funzione di periodo T può essere scritta come somma di funzioni sinusoidali e che abbiano come periodo un sottomultiplo di T, questo sta alla base del principio di sovrapposizione.
 
 Spesso è più comodo fare una somma di smeplici funzioni sinosuidali, che crearne una complessa.
+
+# Suono
+## Natura del suono
+Il suono è costituito da onde longitudinali generate da un oggetto che vibra che prende il nome di **sorgente sonora**. Il suono si trasmette solo attraverso un materiale. La sorgente quando emette il suono sposta la memebrana avanti ed indietro. Quando la membrana si sposta verso l'esterno, comprime lo strato davanti a essa e aumenta la pressione e la regione d'aria di **compressione** si allontana dalla sorgente alla velocità del suono. Dopo aver prodotto la comprensione, la membrana torna indietro e produce una **refazione**, essa ha una pressione leggermente minore a quella inziale e si allontana dalla sorgente alla velocità del suono. Mentre continuano le vibrazioni, la memebrana genera continue compressioni e refazioni. Questo pattern alternato è **l'onda sonora**. Le particelle della materia vibrano avanti e indietro nella stessa direzione in cui si propaga l'onda, la lunghezza d'onda corrisponde all'intervallo fra due compressioni. La prima compressione fa vibrare la porzione di materia adiacente e così via fino a che non giunge al nostro orecchio alla velocità del suono. Le compressioni non arrivano al nostro orecchio perché la materia oscilla, quello che arriva al nostro orecchio sono le vibrazioni.
+
+### Frequenza
+La frequenza del suono è il numero di cicli che passano nel giro di un secondo. Quando il moto dell'onda è armonico, il suono è puro e le due frequanze coincidono, se il suono è periodico, ma non armonico, l'onda è detta **complessa**. le frequenze che l'orecchio umano è in grado di ricevere vanno da 20 Hz a 20 kHz.
+
+### Timbro
+L'altezza del suono dipende dalla frequenza, frequanza alta produce un suono acuto e frequenza basse producono suoni gravi. Il timbro invece dipende dalla legge periodoica con cui le particelle oscilano.
+
+### Ampiezza
+L'ampiezza di un'onda sonora rappresenta dove sono presneti i massimi e minimi di variazione di pressione, ma non rappresenta i valori masismi di pressione. L'ampiezza del suono corrisponde alla sua intensità.
+
+### Velocità
+La velocità del suono dipende dal mezzo in cui si propaga, più le forze di coesione del mezzo sono forti, maggiore è la velocità. Nell'aria la velocità del suono è pari a $343 m/s$. Per un gas perfetto, la velocità del suono si avvicina alla velocità quadratica media:
+$$v=\sqrt{\gamma k{T\over m}}$$
+
+Il fattore gamma compare perché le compressioni e le refazioni avvengono così velocemente da considerarle adiabatche.
+
+## intensità del suono
+L'energia trasportata dalle onde può essere usata per compiere lavoro. 
+
