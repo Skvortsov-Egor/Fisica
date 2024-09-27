@@ -97,3 +97,17 @@ L'intensità minima udubile dall'essere umano equivale a $I_O=10^{-12}$, mentre 
 
 $$\beta=10\log ({I\over I_0})$$
 
+## Effetto Doppler
+L'effetto doppler è una caratteristica di tutte le onede e non solo del suono.
+> L'effetto doppler è la variazione di frequenza dell'onda dovuta a causa del fatto che la sorgente o il ricevitore si muove con velocità diversa rispetto a quella con cui si propaga l'onda.
+Per questa sezione si presume che l'aria sia ferma.
+
+In una situazione standard ad ogni periodo, avviene una compressione del suono e la frequenza non cambia, ma se la sorgente si muove verso il ricevitore le compressioni diventano più ravicinate e quindi la frequenz aaumenta. Se invece una sorgente si allontana dal ricevitore, le compressioni diventano più distanti e quindi la lunghezza d'onda aumenta.
+
+Nel primo caso: $\lambda_1=\lambda - c\cdot T$ in questo caso la nuova lunghezza d'onda è minore e quindi la frequenza del riceviotre diventa:
+
+$$F_R=F_S({v\over v-v_s})$$
+
+Nel secondo caso, la lunghezza d'onda diventa maggiore e quindi la frequenza diventa:
+
+$$F_R=F_S({v\over v+v_s})$$
