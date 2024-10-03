@@ -111,3 +111,31 @@ $$F_R=F_S({v\over v-v_s})$$
 Nel secondo caso, la lunghezza d'onda diventa maggiore e quindi la frequenza diventa:
 
 $$F_R=F_S({v\over v+v_s})$$
+
+## Sovrapposizzione
+Quando l'onda che si propaga cambia il mezzo di propagazione, parte dell'energia viene riflessa e parte rifratta. Quando in un punto si incontrano contemporaneamente due onde, le due onde si sommano, in particolare la loro funzione matematica si somma, dopodiché le onde procedono indisturbate. 
+
+> **principio di sovraèpposziozione:** quando due onde sono presenti nello stesso punto contemporaneamente, la perturnazione è la somma delle singole perturbzioni.
+
+Quando due onde si sovvrapongono in fase, allora abbiamo un'interferenza costruttiva, quando si sovrappongono in contro fase, abbiamo un'intereferenza distruttiva (picco si somma a ventre). È possibile riconoscere un'interferenza costruttiva quando il cammino dell'onda rispetto al punto di sovrapposizione è pari ad un numero intero di lunghezza d'onda. Quando le onde si sovvraèpongono in **quadratura di fase**, ovvero che non abbiamo ne interferenze costruttive ne distruttive, le onde si combinano producendo un'onda un po' minore o un po' maggiore. 
+
+## Riflessione e Rifrazione
+La luce, ma le onde in generale cambia direzione quando incontra un altro mezzo di propagazione con i fenomeni di riflessione e reffazione. Quando un'onda passa da un mezzo all'altro,  l'onda ha un angolo di incidenza, il quale è l'angolo compreso fra il vettore direzione dell'onda e la normale al piano del mezzo in cui passa. L'angolo di incidenza e l'nagolo di rifrazione sono uguali e giacciono sullo stesso piano. L'onda però è in parte riflessa e in parte rifratta, quando l'onda passa da un mezzo all'latro, l'onda cambia direzione e anche la sua velocità, ogni passaggio di mezzo ha un indice di rifrazzione:
+
+$$n={v_1\over v_2}$$
+
+> **Legge di Snell:** il punto di incidenza giace sullo stesso piano sia per la riflessione che per la refazzione e l'angolo di rifrazzione è legato dall'espressione:
+>
+> $$\sin(\theta_1)\cdot n_1=\sin(\theta_2)\cdot n_2$$
+
+Quando aumenta l'angolo di incidenza, si riduce l'angolo di rifrazzione e quando si raggiunge l'angolo limite, la rifrazzione è tangente al piano e se si supera l'angolo limite, l'nergia è tutta riflessa. L'angolo limite:
+
+$$\sin(\theta)={n_2\over n_1}$$
+
+### Principio di Fermat
+La luce sefue il percorso che richiede meno tempo:
+- propagazione retilinea: propagazione in un unico mezzo
+- Riflessione: toccando un punto S, il percorso più breve è quello in cui l'angolo di incidenza e rflessione è uguale
+- Rifrazzione: nel caso in cui abbiamo il passaggio di mezzo, il percorso nel minor tempo possibile è descritto dalla legge di snell perché si cambia mezzo.
+
+
