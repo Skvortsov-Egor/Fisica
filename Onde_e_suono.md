@@ -114,7 +114,13 @@ $$F_R=F_S({v\over v+v_s})$$
 
 Se invece abbiamo il caso in cui il ricevitore si avvicna alla sorgente, la frequenza del ricevitore è maggiore perché mentre si avvicina alla sorgente, il ricevitore sente un numero di compressioni maggiori:
 
-$$$$
+$$F_s+{v_r\over \lambda}$$
+
+Queste sono le compressioni che incontrerebbe normalmente più quelle che incontra andando verso la sorgente:
+
+$$F_R=F_s({1+ {v_r\over \lambda\cdot F_s}})$$
+
+$$F_R=F_s({v+v_r1over v})$$
 
 ## Sovrapposizzione
 Quando l'onda che si propaga cambia il mezzo di propagazione, parte dell'energia viene riflessa e parte rifratta. Quando in un punto si incontrano contemporaneamente due onde, le due onde si sommano, in particolare la loro funzione matematica si somma, dopodiché le onde procedono indisturbate. 
