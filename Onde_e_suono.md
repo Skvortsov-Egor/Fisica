@@ -90,7 +90,7 @@ Se il suono si trasmette uguale in tutte le direzioni, allora l'intensità sonor
 
 $$I={P\over 4\pi r^2}$$
 
-ovvero la superficie di una sfera.
+ovvero la superficie di una sfera, nel caso di un cerchio, l'area diventa $A\pi r^2$.
 
 ### Livello di intnsità sonora
 L'intensità minima udubile dall'essere umano equivale a $I_O=10^{-12}$, mentre il massimo equivale a 10 e già a questo soglia si possono verificare danni permanenti all'udito. Il livello di intensità sonora è una scala logaritmica e uamenta di 10 in 10:
