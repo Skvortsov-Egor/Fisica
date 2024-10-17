@@ -102,7 +102,7 @@ L'effetto doppler è una caratteristica di tutte le onede e non solo del suono.
 > L'effetto doppler è la variazione di frequenza dell'onda dovuta a causa del fatto che la sorgente o il ricevitore si muove con velocità diversa rispetto a quella con cui si propaga l'onda.
 Per questa sezione si presume che l'aria sia ferma.
 
-In una situazione standard ad ogni periodo, avviene una compressione del suono e la frequenza non cambia, ma se la sorgente si muove verso il ricevitore le compressioni diventano più ravicinate e quindi la frequenz aaumenta. Se invece una sorgente si allontana dal ricevitore, le compressioni diventano più distanti e quindi la lunghezza d'onda aumenta.
+In una situazione standard ad ogni periodo, avviene una compressione del suono e la frequenza non cambia, ma se la sorgente si muove verso il ricevitore le compressioni diventano più ravicinate e quindi la frequenza aumenta. Se invece una sorgente si allontana dal ricevitore, le compressioni diventano più distanti e quindi la lunghezza d'onda aumenta.
 
 Nel primo caso: $\lambda_1=\lambda - c\cdot T$ in questo caso la nuova lunghezza d'onda è minore e quindi la frequenza del riceviotre diventa:
 
@@ -111,6 +111,10 @@ $$F_R=F_S({v\over v-v_s})$$
 Nel secondo caso, la lunghezza d'onda diventa maggiore e quindi la frequenza diventa:
 
 $$F_R=F_S({v\over v+v_s})$$
+
+Se invece abbiamo il caso in cui il ricevitore si avvicna alla sorgente, la frequenza del ricevitore è maggiore perché mentre si avvicina alla sorgente, il ricevitore sente un numero di compressioni maggiori:
+
+$$$$
 
 ## Sovrapposizzione
 Quando l'onda che si propaga cambia il mezzo di propagazione, parte dell'energia viene riflessa e parte rifratta. Quando in un punto si incontrano contemporaneamente due onde, le due onde si sommano, in particolare la loro funzione matematica si somma, dopodiché le onde procedono indisturbate. 
