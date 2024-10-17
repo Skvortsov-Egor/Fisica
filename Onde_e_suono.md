@@ -145,7 +145,23 @@ Quando l'onda che si propaga cambia il mezzo di propagazione, parte dell'energia
 
 > **principio di sovrapposziozione:** quando due onde sono presenti nello stesso punto contemporaneamente, la perturnazione è la somma delle singole perturbzioni.
 
-Quando due onde si sovvrapongono in fase con uguale ampiezza, allora abbiamo **un'interferenza costruttiva**, quando si sovrappongono in contro fase, abbiamo **un'intereferenza distruttiva** (picco si somma a ventre). È possibile riconoscere un'interferenza costruttiva quando il cammino dell'onda rispetto al punto di sovrapposizione è pari ad un numero intero di lunghezza d'onda. Quando le onde si sovvraèpongono in **quadratura di fase**, ovvero che non abbiamo ne interferenze costruttive ne distruttive, le onde si combinano producendo un'onda un po' minore in ampiezza, ovvero si sovrappongono un picco(positivo o negativo) e mezza onda positiva o negativa. Se due onde non hanno la stessa ampiezza, se si sommano due picchi, quello che si ottiene è un'interferenza costruttiva, ma l'ampiezza sarà un po' maggiore dell'ampiezza maggiore, se invece siamo in presenza di una intereferenza distruttiva allora l'ampiezza sarà un po' minore rispetto all'ampiezza maggiore, l'onda prodotta ha una funzione che si calcola con prostaferesi. 
+Quando due onde si sovvrapongono in fase con uguale ampiezza, allora abbiamo **un'interferenza costruttiva**, quando si sovrappongono in contro fase, abbiamo **un'intereferenza distruttiva** (picco si somma a ventre). È possibile riconoscere un'interferenza costruttiva quando il cammino dell'onda rispetto al punto di sovrapposizione è pari ad un numero intero di lunghezza d'onda. Quando le onde si sovvraèpongono in **quadratura di fase**, ovvero che non abbiamo ne interferenze costruttive ne distruttive, le onde si combinano producendo un'onda un po' minore in ampiezza, ovvero si sovrappongono un picco(positivo o negativo) e mezza onda positiva o negativa. Se due onde non hanno la stessa ampiezza, se si sommano due picchi, quello che si ottiene è un'interferenza costruttiva, ma l'ampiezza sarà un po' maggiore dell'ampiezza maggiore, se invece siamo in presenza di una intereferenza distruttiva allora l'ampiezza sarà un po' minore rispetto all'ampiezza maggiore, l'onda prodotta ha una funzione che si calcola con prostaferesi.
+
+## Diffrazione
+Quando un'onda incontra un ostacolo, essa si incurva e si trasmette in tutte le direzioni. Se l'onda ha una lungezza d'onda paragonabile agli ostacoli e alle aperture, attraversono gli ostacoli con meno problemi, per i suoini acuti per esempio, l'oscaltore devve essere posizionato direttamente verso la sorgente. Quando un'onda raggiunge un'ostacolo, le molecole vibrano e si genera un'onda che è la somma delle singoli onde prodotte dalla vibrazione delle molecole dell'ostacolo. Il fronte d'onda (punti posti a uguale distanza da sorgente e sono investite dall'onda nello stesso istante) ha posizone di interferenza di interferenza costruttiva e distruttiva e si genera un'incurvamneto dell'onda. Nella direzione perpendicolare si ha un'interferenza costruttiva, se ci allontaniamo dal massimo sul fronte d'onda, l'onda si alterna tra massimi e minimi, ma che non sono così massimi come sulla perpendicolare, perché man mano che ci allontaniamo dalla perpendicolare l'intensità diminuisce, si può trovare l'nagolo $\theta$ che è l'angolo descritto fra il massimo perpendiolare ed il primo minimo:
+
+$$\sin(\theta)={\lambda\over D}$$
+
+Per aperture circolari vale la relazione:
+
+$$\sin(\theta) = 1,22\cdot{\lambda\over D}$$
+
+Dove $D$ indica la largezza della fenditura. L'energia totale trasportata dall'onda si conserva, è semplicemente distribuita nello spazio.
+
+## Battimenti
+Quando si emettono due suoni puri a frequenza leggermente diversa, per la sovrapposzione delle onde, l'intensità delle onde aumenta e diminuisce in modo perioidco. Queste variazioni periodiche dell'intensità sono detti **battimenti**. La sovrapposizione delle due onde genere interferenze costruttive e il suono percepito è la somma dei due, e quando è debole si ha una interferenza distruttiva. La **frequenza dei battimenti** è il numero di volte che il suono passa da debole a forte in un secondo:
+
+$$F_b=f_1-f_2$$
 
 ## Riflessione e Rifrazione
 La luce, ma le onde in generale cambia direzione quando incontra un altro mezzo di propagazione con i fenomeni di riflessione e reffazione. Quando un'onda passa da un mezzo all'altro,  l'onda ha un angolo di incidenza, il quale è l'angolo compreso fra il vettore direzione dell'onda e la normale al piano del mezzo in cui passa. L'angolo di incidenza e l'nagolo di rifrazione sono uguali e giacciono sullo stesso piano. L'onda però è in parte riflessa e in parte rifratta, quando l'onda passa da un mezzo all'latro, l'onda cambia direzione e anche la sua velocità, ogni passaggio di mezzo ha un indice di rifrazzione:
