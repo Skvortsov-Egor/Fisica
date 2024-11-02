@@ -147,6 +147,9 @@ Quando l'onda che si propaga cambia il mezzo di propagazione, parte dell'energia
 
 Quando due onde si sovvrapongono in fase con uguale ampiezza, allora abbiamo **un'interferenza costruttiva**, quando si sovrappongono in contro fase, abbiamo **un'intereferenza distruttiva** (picco si somma a ventre). È possibile riconoscere un'interferenza costruttiva quando il cammino dell'onda rispetto al punto di sovrapposizione è pari ad un numero intero di lunghezza d'onda. Quando le onde si sovvraèpongono in **quadratura di fase**, ovvero che non abbiamo ne interferenze costruttive ne distruttive, le onde si combinano producendo un'onda un po' minore in ampiezza, ovvero si sovrappongono un picco(positivo o negativo) e mezza onda positiva o negativa. Se due onde non hanno la stessa ampiezza, se si sommano due picchi, quello che si ottiene è un'interferenza costruttiva, ma l'ampiezza sarà un po' maggiore dell'ampiezza maggiore, se invece siamo in presenza di una intereferenza distruttiva allora l'ampiezza sarà un po' minore rispetto all'ampiezza maggiore, l'onda prodotta ha una funzione che si calcola con prostaferesi.
 
+Condizioni di interferenza costruttiva: $\delta L=m\cdot \lambda$
+Condizioni di interferenza distruttiva: $\delta L=(m+{1\over 2})\cdot \lambda$
+
 ## Diffrazione
 Quando un'onda incontra un ostacolo, essa si incurva e si trasmette in tutte le direzioni. Se l'onda ha una lungezza d'onda paragonabile agli ostacoli e alle aperture, attraversono gli ostacoli con meno problemi, per i suoini acuti per esempio, l'oscaltore devve essere posizionato direttamente verso la sorgente. Quando un'onda raggiunge un'ostacolo, le molecole vibrano e si genera un'onda che è la somma delle singoli onde prodotte dalla vibrazione delle molecole dell'ostacolo. Il fronte d'onda (punti posti a uguale distanza da sorgente e sono investite dall'onda nello stesso istante) ha posizone di interferenza di interferenza costruttiva e distruttiva e si genera un'incurvamneto dell'onda. Nella direzione perpendicolare si ha un'interferenza costruttiva, se ci allontaniamo dal massimo sul fronte d'onda, l'onda si alterna tra massimi e minimi, ma che non sono così massimi come sulla perpendicolare, perché man mano che ci allontaniamo dalla perpendicolare l'intensità diminuisce, si può trovare l'nagolo $\theta$ che è l'angolo descritto fra il massimo perpendiolare ed il primo minimo:
 
@@ -182,4 +185,37 @@ La luce sefue il percorso che richiede meno tempo:
 - Riflessione: toccando un punto S, il percorso più breve è quello in cui l'angolo di incidenza e rflessione è uguale
 - Rifrazzione: nel caso in cui abbiamo il passaggio di mezzo, il percorso nel minor tempo possibile è descritto dalla legge di snell perché si cambia mezzo.
 
+## Esperimento di Young
+Young ha dimostrato la natura ondulatoria della luce, facendo passare una luce attraverso due fenditure molto raviccinate tra loro, esse si producono da due sorgenti e su uno schermo generano fasce chiare e scure in base a se nel punto dello schermo la luce ha fatto un'interferenza costruttiva o distruttiva. La fascia costruttiva centrale è di ordine 0, e per ogni fascia centrale laterale (simmetrica rispetto al centro della fascia zero) l'ordine di interferenza sale di 1. L'intensità delle frange è simmetrica rispetto al centro ed ha intensità via via minore, man mano che ci si allontana dal centro perché l'intensità è la quantità di luce che incide in 1 secondo su una superfici unitaria. Le frange chiare son luogo di interferenza costruttiva e seguono le condizioni di interferenza delle onde, le frange scure sono invece luoghi di interferenza distruttiva e seguono le condizioni di interferenza delle onde.
+
+### Condizioni di interferenza
+Se la distanza tra le fendiure e lo schermo è molto grande rispetto alla distanza fra le due fenditure, allora le rette che partono verso un punto dello schermo sono parallele e formano un agolo $\theta$ rispetto alla perpendicolare dello schermo. La differenza di cammino, può essere quindi calcolata:
+$$\Delta x=d\sin(\theta)=m\lambda$$
+
+$$\sin(\theta)={m\lambda\over d}$$
+
+Questo per le interferenze costruttive, stesso ragionamento si può fare per le interferenze distruttive.
+
+### Misura della lunghezza d'onda
+Riprendendo la stesa figura e la stessa situazione e facendo l'approssimazione che OP e OO' siano uguale come anche $\sin(\theta)$ e $\tan(\theta)$, si ha che l'angolo $\theta$ è molto piccolo e si ha che:
+
+$$\tan(\theta)={y\over D}$$
+
+E per la relazione della sezione precedente si ha che:
+
+$$m\lambda={d\cdot y\over D}$$
+
+Se l'esperimento di young fosse condotto sulla luce bianca, i diversi colori si scomponerebbero e in parte si sovraporebbero.
+
+## Interferenza su lamine
+Succede spesso che ci sia una strato sottile di lamine fra due mezzi diversi: l'onda incidente che arriva produce due raggi luminosi: uno riflesso e uno rifratto, quello rifratto incide sul secondo mezzo ed è riflesso ed esce dalla lamina, una volta uscito può interferire con il primo raggio. Valgono le stesse condizoni di interferenza che per le onde, la differenza di cammino percorsa dipende dal fatto che il secondo raggio attraversa lamina, e ciò è uguale al doppio spessore della lamina e quindi per determinare l'interferenza bisogna tenere conto della lunghezza d'onda all'interno della lamina:
+
+$$\lambda_{lamina}={\lambda\over n_{lamina}}$$
+
+Se l'interferenza è distruttiva il colore della lamina è scuro, in caso contrario è uniformemente illuminata. 
+
+Se una corda con estremità fissa ciene riflessa, la sua fase cambia di $\pi$ ed è come se avesse percorso mezza l'unghezza d'onda in più. Con le onde luminose questo significa che se un'ond passa da un mezzo con indice maggiore, la riflessione avviene con un cambaimento di fase di emzza lunghezza d'onda, se invece è minore, non avviene alcun cambiamento di fase. Se l'interferenza è distruttiva, dalla rifflessione è escluso quel particolare colore corelato alla lunghezza d'onda dell'onda. Se la lamina presenta colori diversi è perché lo spessore è diverso. 
+
+## Diffrazione della luce
+Quando la luce passa attrverso una singloa fenditura piccola, crea una grossa fascia luminosa e una serie di frange chiare meno luminose e più strette, alternate da frange scure, questo è carateristico in posti non illuminati direttamnete dal raggio luminoso. 
 
