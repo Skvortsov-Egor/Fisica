@@ -217,5 +217,10 @@ Se l'interferenza è distruttiva il colore della lamina è scuro, in caso contra
 Se una corda con estremità fissa ciene riflessa, la sua fase cambia di $\pi$ ed è come se avesse percorso mezza l'unghezza d'onda in più. Con le onde luminose questo significa che se un'ond passa da un mezzo con indice maggiore, la riflessione avviene con un cambaimento di fase di emzza lunghezza d'onda, se invece è minore, non avviene alcun cambiamento di fase. Se l'interferenza è distruttiva, dalla rifflessione è escluso quel particolare colore corelato alla lunghezza d'onda dell'onda. Se la lamina presenta colori diversi è perché lo spessore è diverso. 
 
 ## Diffrazione della luce
-Quando la luce passa attrverso una singloa fenditura piccola, crea una grossa fascia luminosa e una serie di frange chiare meno luminose e più strette, alternate da frange scure, questo è carateristico in posti non illuminati direttamnete dal raggio luminoso. 
+Quando la luce passa attrverso una singola fenditura piccola, crea una grossa fascia luminosa e una serie di frange chiare meno luminose e più strette, alternate da frange scure, questo è carateristico in posti non illuminati direttamnete dal raggio luminoso. 
 
+Quando la luce passa attraverso la fenditura e raggiunge il punto centrale dello schermo, le onde secondarie generate dalla fenditura interfersicono costruttivamente e genrano una larga fascia luminosa centrale, questo perché le onde sono in corcondanza di fase. Le frange scure inevece sono prodotte quando le onde che partono dalla sorgenti luminose della fenditura (tra loro parallele) e descrivono un angolo $\theta$ tale che la differenza di cammino tra la parte superiore ed inferiore della fenditura sia uguale a $m\lambda$, questo perché la differenza di cammino tra l'onda superiore e quella posta a metà fenditura è di ${m\over 2}\lambda$. La metà superiore della fenditura interagisce distruttivamente con la corrispondente parte inferiore della fenditura. L'angolo $\theta$ può essere calcolato come:
+
+$$\sin(\theta)={m\lambda\over d}$$
+
+Maggiore è l'estensione del fascio, più la lunghezza d'onda si avvicna alla larghezza della fenditura. 
