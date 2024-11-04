@@ -147,8 +147,8 @@ Quando l'onda che si propaga cambia il mezzo di propagazione, parte dell'energia
 
 Quando due onde si sovvrapongono in fase con uguale ampiezza, allora abbiamo **un'interferenza costruttiva**, quando si sovrappongono in contro fase, abbiamo **un'intereferenza distruttiva** (picco si somma a ventre). È possibile riconoscere un'interferenza costruttiva quando il cammino dell'onda rispetto al punto di sovrapposizione è pari ad un numero intero di lunghezza d'onda. Quando le onde si sovvraèpongono in **quadratura di fase**, ovvero che non abbiamo ne interferenze costruttive ne distruttive, le onde si combinano producendo un'onda un po' minore in ampiezza, ovvero si sovrappongono un picco(positivo o negativo) e mezza onda positiva o negativa. Se due onde non hanno la stessa ampiezza, se si sommano due picchi, quello che si ottiene è un'interferenza costruttiva, ma l'ampiezza sarà un po' maggiore dell'ampiezza maggiore, se invece siamo in presenza di una intereferenza distruttiva allora l'ampiezza sarà un po' minore rispetto all'ampiezza maggiore, l'onda prodotta ha una funzione che si calcola con prostaferesi.
 
-Condizioni di interferenza costruttiva: $\delta L=m\cdot \lambda$
-Condizioni di interferenza distruttiva: $\delta L=(m+{1\over 2})\cdot \lambda$
+Condizioni di interferenza costruttiva: $\delta X=m\cdot \lambda$
+Condizioni di interferenza distruttiva: $\delta X=(m+{1\over 2})\cdot \lambda$
 
 ## Diffrazione
 Quando un'onda incontra un ostacolo, essa si incurva e si trasmette in tutte le direzioni. Se l'onda ha una lungezza d'onda paragonabile agli ostacoli e alle aperture, attraversono gli ostacoli con meno problemi, per i suoini acuti per esempio, l'oscaltore devve essere posizionato direttamente verso la sorgente. Quando un'onda raggiunge un'ostacolo, le molecole vibrano e si genera un'onda che è la somma delle singoli onde prodotte dalla vibrazione delle molecole dell'ostacolo. Il fronte d'onda (punti posti a uguale distanza da sorgente e sono investite dall'onda nello stesso istante) ha posizone di interferenza di interferenza costruttiva e distruttiva e si genera un'incurvamneto dell'onda. Nella direzione perpendicolare si ha un'interferenza costruttiva, se ci allontaniamo dal massimo sul fronte d'onda, l'onda si alterna tra massimi e minimi, ma che non sono così massimi come sulla perpendicolare, perché man mano che ci allontaniamo dalla perpendicolare l'intensità diminuisce, si può trovare l'nagolo $\theta$ che è l'angolo descritto fra il massimo perpendiolare ed il primo minimo:
@@ -214,7 +214,15 @@ $$\lambda_{lamina}={\lambda\over n_{lamina}}$$
 
 Se l'interferenza è distruttiva il colore della lamina è scuro, in caso contrario è uniformemente illuminata. 
 
-Se una corda con estremità fissa ciene riflessa, la sua fase cambia di $\pi$ ed è come se avesse percorso mezza l'unghezza d'onda in più. Con le onde luminose questo significa che se un'ond passa da un mezzo con indice maggiore, la riflessione avviene con un cambaimento di fase di emzza lunghezza d'onda, se invece è minore, non avviene alcun cambiamento di fase. Se l'interferenza è distruttiva, dalla rifflessione è escluso quel particolare colore corelato alla lunghezza d'onda dell'onda. Se la lamina presenta colori diversi è perché lo spessore è diverso. 
+Se una corda con estremità fissa ciene riflessa, la sua fase cambia di $\pi$ ed è come se avesse percorso mezza l'unghezza d'onda in più. Con le onde luminose questo significa che se un'ond passa da un mezzo con indice maggiore, la riflessione avviene con un cambaimento di fase di emzza lunghezza d'onda, se invece è minore, non avviene alcun cambiamento di fase. Se l'interferenza è distruttiva, dalla rifflessione è escluso quel particolare colore corelato alla lunghezza d'onda dell'onda. Se la lamina presenta colori diversi è perché lo spessore è diverso.
+
+Se abbiamo una interferenza costruttiva:
+
+$$2t = (m-{1\over 2})\lambda$$
+
+Nel caso di una interferenza distruttiva:
+
+$$2t = m\lambda$$
 
 ## Diffrazione della luce
 Quando la luce passa attrverso una singola fenditura piccola, crea una grossa fascia luminosa e una serie di frange chiare meno luminose e più strette, alternate da frange scure, questo è carateristico in posti non illuminati direttamnete dal raggio luminoso. 
