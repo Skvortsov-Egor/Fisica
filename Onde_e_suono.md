@@ -218,11 +218,14 @@ Se una corda con estremità fissa ciene riflessa, la sua fase cambia di $\pi$ ed
 
 Se abbiamo una interferenza costruttiva:
 
-$$2t = (m-{1\over 2})\lambda$$
+$$2t = m\lambda$$
 
+Con $m=0,1,2,3,4...$.
 Nel caso di una interferenza distruttiva:
 
 $$2t = m\lambda$$
+
+Con $m={1\over 2},{3\over 2}...$.
 
 ## Diffrazione della luce
 Quando la luce passa attrverso una singola fenditura piccola, crea una grossa fascia luminosa e una serie di frange chiare meno luminose e più strette, alternate da frange scure, questo è carateristico in posti non illuminati direttamnete dal raggio luminoso. 
